@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1" // The version might differ depending on the latest version when you run the command
+    "express": "^4.17.1"
   }
 }
